@@ -9,6 +9,8 @@ Known Issues:
 *** Please kindly note that this plane from MSFS has numerous unselectable switches. This is a MSFS model/featureset issue, not a YC's or the Profile I created issue.
 
 FIXED:
+  # 10/22/2024 
+    - Reported issue for line 375. Fopund a few blank Vars
   # 10/17/2024
     - Initial release 10/17/2024
 
